@@ -1,0 +1,6 @@
+{
+  "name": "CivicSync",
+  "description": "CivicSync is a unified smart city grievance management platform connecting citizens, departments, and field workers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
